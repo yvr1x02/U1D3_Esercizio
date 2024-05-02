@@ -1,0 +1,54 @@
+
+
+header{
+    text-align: center;
+    
+}
+
+
+#Logo{
+    height: 5%;
+    
+}
+
+#sub-title{
+    color: rgb(32, 120, 164);
+    background-color: aliceblue;
+}
+
+#Intro{
+    text-align: center;
+    margin: auto;
+}
+
+#Recipe{
+    height: 25em;
+    
+}
+
+#Feat{
+    color: rgba(169, 27, 6, 0#709);
+    font-weight: 600;
+    margin-left: 19em;
+
+}
+
+#Credit{
+    color: gray;
+}
+
+#Ingredients{
+    margin-left: 20em;
+    margin-right:20em;
+}
+footer{
+    margin-left:20em;
+}
+
+#Method{
+    margin-left: 5%;
+}
+
+#Line{
+   color: #709;
+}
