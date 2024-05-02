@@ -1,5 +1,4 @@
 
-
 header{
     text-align: center;
     
@@ -22,14 +21,14 @@ header{
 }
 
 #Recipe{
-    height: 25em;
+    height: 30em;
     
 }
 
 #Feat{
-    color: rgba(169, 27, 6, 0#709);
+    color: rgb(113, 6, 6);
     font-weight: 600;
-    margin-left: 19em;
+    margin-left: 35em;
 
 }
 
@@ -38,17 +37,15 @@ header{
 }
 
 #Ingredients{
-    margin-left: 20em;
-    margin-right:20em;
+    margin-left: 37em;
+    margin-right:37em;
 }
-footer{
-    margin-left:20em;
-}
+
 
 #Method{
     margin-left: 5%;
 }
 
-#Line{
-   color: #709;
+#class-sub-title{
+  
 }
